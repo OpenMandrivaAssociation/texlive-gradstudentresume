@@ -1,6 +1,6 @@
 Name:		texlive-gradstudentresume
 Version:	38832
-Release:	1
+Release:	2
 Summary:	A generic template for graduate student resumes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gradstudentresume
