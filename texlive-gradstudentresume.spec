@@ -3,7 +3,7 @@ Version:	38832
 Release:	2
 Summary:	A generic template for graduate student resumes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gradstudentresume
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gradstudentresume
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gradstudentresume.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gradstudentresume.doc.r%{version}.tar.xz
